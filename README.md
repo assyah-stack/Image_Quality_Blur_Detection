@@ -1,7 +1,7 @@
 # Image_Quality_Blur_Detection
 
 This is an image classification project that predicts whether an image is **blurry**, **original**, or **sharp**.  
-It was created following a tutorial on Dataquest and with guidance from ChatGPT. 
+
 
 
 ##  Project Steps
